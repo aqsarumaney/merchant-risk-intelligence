@@ -149,7 +149,7 @@ merchant-risk-intelligence/
 │   │   ├── merchants.csv
 │   │   ├── monthly_transactions.csv
 │   │   ├── merchant_risk.csv
-│   │   ├── website_signals.csv
+│   │   ├── website_signals (1).csv
 │   │   └── business_profile.csv
 │   │
 │   └── cleaned/
@@ -167,14 +167,15 @@ merchant-risk-intelligence/
 │   └── 04_early_warning_analysis.sql
 │
 ├── powerbi/
-│   └── Merchant_Risk_Intelligence.pbix
+│   └── MERCHANT RISK INTELLIGENCE.pbix
+│   └── MERCHANT RISK INTELLIGENCE.pdf
 │
 ├── reports/
-│   └── Quarterly_Risk_Review_Q4_2024.pdf
+│   └── Quarterly Risk Review - Q4 2024.pdf
 │
 └── images/
-    ├── executive-risk-overview.png
-    ├── portfolio-concentration.png
-    ├── merchant-risk-outliers.png
-    ├── early-warning.png
-    └── merchant-investigation.png
+    ├── Executive Risk Overview.jpeg
+    ├── Portfolio & Concentration.jpeg
+    ├── Merchant Risk & Outliers.jpeg
+    ├── Early Warning.jpeg
+    └── Merchant Investigation.jpeg
