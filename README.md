@@ -49,6 +49,8 @@ These include:
 - Invalid negative transaction values
 - Missing information
 
+[View Raw Data](./data/raw/) · [View Cleaned Data](./data/cleaned/)
+
 ---
 
 ## Data Quality & SQL
@@ -77,6 +79,8 @@ The SQL analysis then focused on business questions including:
 - Early-warning indicators
 - Multi-signal merchant screening
 
+[View SQL Analysis](./sql/)
+
 ---
 
 ## Power BI
@@ -103,6 +107,30 @@ Analysis of recent sudden and repeated risk deterioration to identify merchants 
 
 A drill-through page for investigating an individual merchant, combining merchant profile, transaction exposure, risk trends, operational risk indicators and risk signals.
 
+**Power BI Files:** [Open PBIX](./powerbi/MERCHANT%20RISK%20INTELLIGENCE.pbix) · [Open PDF](./powerbi/MERCHANT%20RISK%20INTELLIGENCE.pdf)
+
+## Dashboard Preview
+
+### Executive Risk Overview
+
+![Executive Risk Overview](./images/Executive%20Risk%20Overview.jpeg)
+
+### Portfolio & Concentration
+
+![Portfolio & Concentration](./images/Portfolio%20%26%20Concentration.jpeg)
+
+### Merchant Risk & Outliers
+
+![Merchant Risk & Outliers](./images/Merchant%20Risk%20%26%20Outliers.jpeg)
+
+### Early Warning
+
+![Early Warning](./images/Early%20Warning.jpeg)
+
+### Merchant Investigation
+
+![Merchant Investigation](./images/Merchant%20Investigation.jpeg)
+
 ---
 
 ## Quarterly Risk Review
@@ -121,6 +149,8 @@ The review brings together:
 - Management monitoring priorities
 
 The purpose was to demonstrate how analytical findings can be communicated in a format suitable for a management or risk-review discussion.
+
+[View Quarterly Risk Review](./reports/Quarterly%20Risk%20Review%20-%20Q4%202024.pdf)
 
 ---
 
