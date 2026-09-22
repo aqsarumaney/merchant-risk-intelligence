@@ -1,0 +1,601 @@
+merchant_id,company_age_years,ownership_flag,sanctions_flag,compliance_flag,business_size,industry,country
+M0001,2.1,0.0,0,0,Small,Education,Nigeria
+M0002,2.7,0.0,0,0,Medium,Healthcare,France
+M0003,2.5,0.0,0,0,Small,Retail,United Kingdom
+M0004,5.6,0.0,0,0,Large,Events,Australia
+M0005,2.1,0.0,0,0,Small,Retail,Australia
+M0006,2.2,0.0,0,0,Small,Travel,United Kingdom
+M0007,4.3,0.0,0,0,Small,Healthcare,United States
+M0008,3.8,0.0,0,0,Small,Education,United States
+M0009,6.8,0.0,0,0,Small,Digital Services,Canada
+M0010,2.6,0.0,0,0,Small,SaaS/Subscriptions,India
+M0011,1.4,0.0,0,0,Small,Consumer Services,France
+M0012,4.2,0.0,0,0,Small,Healthcare,India
+M0013,3.8,1.0,0,0,Small,Digital Services,France
+M0014,4.1,0.0,0,0,Small,Hospitality,Germany
+M0015,6.5,0.0,0,0,Small,Retail,Canada
+M0016,3.4,0.0,0,0,Small,Travel,United States
+M0017,2.8,1.0,0,0,Small,Hospitality,United Arab Emirates
+M0018,1.6,0.0,0,0,Small,Education,Canada
+M0019,1.6,0.0,0,0,Small,Digital Services,South Africa
+M0020,4.1,1.0,0,0,Medium,Consumer Services,Canada
+M0021,1.4,0.0,0,0,Large,SaaS/Subscriptions,United States
+M0022,3.9,1.0,0,0,Large,SaaS/Subscriptions,Germany
+M0023,3.3,0.0,0,0,Small,Retail,United States
+M0024,3.5,0.0,0,0,Small,Hospitality,United States
+M0025,1.2,0.0,0,0,Small,Hospitality,Singapore
+M0026,2.7,0.0,0,0,Medium,Retail,Australia
+M0027,6.3,0.0,0,0,Medium,Events,Canada
+M0028,6.6,0.0,0,0,Medium,Education,Brazil
+M0029,4.6,0.0,0,0,Medium,Retail,Australia
+M0030,4.0,0.0,0,0,Small,Healthcare,Canada
+M0031,3.1,0.0,0,0,Medium,Digital Services,United States
+M0032,4.2,0.0,0,0,Medium,SaaS/Subscriptions,United Kingdom
+M0033,4.0,0.0,0,0,Small,Healthcare,United Arab Emirates
+M0034,1.6,0.0,0,0,Large,Digital Services,Brazil
+M0035,5.0,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0036,4.1,0.0,0,0,Large,Events,India
+M0037,3.7,0.0,0,0,Medium,Education,Singapore
+M0038,4.3,1.0,0,0,Small,Hospitality,United States
+M0039,1.4,0.0,0,0,Medium,Hospitality,Germany
+M0040,1.4,0.0,0,0,Small,Travel,South Africa
+M0041,,0.0,0,0,Medium,Digital Services,Singapore
+M0042,4.4,0.0,0,0,Medium,Education,United Kingdom
+M0043,3.6,0.0,0,0,Medium,Digital Services,Brazil
+M0044,5.9,0.0,0,0,Medium,Digital Services,United Kingdom
+M0045,4.5,0.0,0,0,Small,Retail,Brazil
+M0046,5.7,0.0,0,0,Small,Retail,United Kingdom
+M0047,6.2,0.0,0,1,Small,Hospitality,United Arab Emirates
+M0048,6.4,0.0,0,0,Small,Travel,Germany
+M0049,3.6,0.0,0,0,Small,Education,United Kingdom
+M0050,7.0,0.0,0,0,Small,Retail,Brazil
+M0051,3.2,0.0,0,0,Small,Retail,United States
+M0052,4.5,1.0,0,0,Small,Digital Services,United States
+M0053,4.9,0.0,0,0,Medium,Education,United Kingdom
+M0054,2.5,0.0,0,0,Small,Retail,Australia
+M0055,3.9,0.0,0,0,Medium,Retail,Canada
+M0056,2.7,0.0,0,0,Small,SaaS/Subscriptions,France
+M0057,2.9,0.0,0,0,Small,Travel,United Kingdom
+M0058,6.8,1.0,0,0,Small,Retail,Germany
+M0059,5.7,0.0,0,0,Small,Hospitality,United States
+M0060,3.7,0.0,0,0,Small,SaaS/Subscriptions,United Arab Emirates
+M0061,1.3,0.0,0,0,Small,Healthcare,France
+M0062,6.1,1.0,0,0,Small,Events,Australia
+M0063,6.4,0.0,0,0,Small,Travel,United Arab Emirates
+M0064,1.5,0.0,0,0,Medium,Events,Germany
+M0065,1.4,0.0,0,0,Small,SaaS/Subscriptions,South Africa
+M0066,6.0,0.0,0,0,Medium,Education,India
+M0067,4.7,0.0,0,0,Small,Retail,United States
+M0068,3.3,0.0,0,0,Large,Digital Services,Germany
+M0069,5.9,0.0,0,0,Medium,Education,United States
+M0070,5.1,1.0,0,0,Large,SaaS/Subscriptions,United States
+M0071,4.7,0.0,0,0,Medium,Digital Services,United States
+M0072,3.3,0.0,0,0,Small,Hospitality,India
+M0073,5.2,0.0,0,0,Small,Travel,Singapore
+M0074,4.6,0.0,0,0,Small,Travel,United Kingdom
+M0075,5.3,1.0,0,0,Medium,Digital Services,Germany
+M0076,2.6,0.0,0,0,Medium,Retail,Nigeria
+M0077,6.1,0.0,0,0,Small,Hospitality,Australia
+M0078,5.7,0.0,0,0,Large,Retail,India
+M0079,5.5,1.0,0,0,Small,Hospitality,United Kingdom
+M0080,1.7,0.0,1,0,Medium,Digital Services,South Africa
+M0081,1.5,0.0,0,0,Medium,Retail,United Kingdom
+M0082,4.1,0.0,0,0,Small,SaaS/Subscriptions,United Kingdom
+M0083,6.1,0.0,0,0,Medium,SaaS/Subscriptions,South Africa
+M0084,2.6,0.0,0,0,Medium,Education,India
+M0085,4.1,0.0,0,0,Small,SaaS/Subscriptions,Australia
+M0086,2.0,0.0,0,0,Small,Travel,United Arab Emirates
+M0087,4.9,0.0,0,0,Small,Travel,Singapore
+M0088,1.2,0.0,0,0,Medium,Consumer Services,United Kingdom
+M0089,2.3,0.0,0,0,Small,Healthcare,United Kingdom
+M0090,5.7,0.0,0,0,Large,Digital Services,United Kingdom
+M0091,2.8,0.0,0,0,Medium,Events,United States
+M0092,5.3,0.0,0,1,Small,Consumer Services,Brazil
+M0093,5.0,0.0,0,1,Small,Digital Services,United Kingdom
+M0094,5.5,0.0,0,0,Medium,Digital Services,United Arab Emirates
+M0095,3.0,0.0,0,0,Medium,Retail,Canada
+M0096,5.5,0.0,0,0,Small,Events,Canada
+M0097,3.3,0.0,0,0,Small,Travel,Germany
+M0098,3.6,0.0,0,0,Small,Healthcare,India
+M0099,2.6,0.0,0,0,Large,Retail,France
+M0100,1.2,0.0,0,0,Small,Hospitality,Singapore
+M0101,6.9,0.0,0,0,Medium,SaaS/Subscriptions,Canada
+M0102,1.2,0.0,0,0,Small,Retail,South Africa
+M0103,6.4,0.0,0,0,Large,Hospitality,Canada
+M0104,3.9,0.0,0,0,Small,Healthcare,United States
+M0105,5.0,0.0,0,0,Small,Digital Services,United Arab Emirates
+M0106,3.3,0.0,0,0,Large,Digital Services,United States
+M0107,2.8,1.0,0,0,Large,Retail,Singapore
+M0108,2.0,0.0,0,0,Small,Education,Nigeria
+M0109,4.7,0.0,0,0,Small,Retail,India
+M0110,1.6,0.0,0,0,Small,Education,Germany
+M0111,5.1,1.0,0,0,Small,Travel,United States
+M0112,5.8,1.0,0,0,Small,SaaS/Subscriptions,Nigeria
+M0113,4.8,0.0,0,0,Medium,Travel,United States
+M0114,3.9,0.0,0,0,Small,Retail,United States
+M0115,3.1,1.0,0,0,Medium,SaaS/Subscriptions,United Kingdom
+M0116,2.1,0.0,0,0,Small,Hospitality,United States
+M0117,5.7,0.0,0,0,Small,Travel,India
+M0118,5.2,0.0,0,0,Medium,Retail,India
+M0119,1.5,0.0,0,0,Small,Hospitality,United Kingdom
+M0120,4.4,0.0,0,0,Medium,Consumer Services,United States
+M0121,5.6,0.0,0,0,Small,Retail,United States
+M0122,1.3,0.0,0,0,Large,SaaS/Subscriptions,Germany
+M0123,4.4,,0,0,Medium,Retail,United States
+M0124,1.3,0.0,0,0,Medium,Travel,Singapore
+M0125,1.6,0.0,0,0,Small,Consumer Services,United States
+M0126,1.7,0.0,0,0,Small,Retail,United Kingdom
+M0127,3.6,0.0,1,0,Small,Digital Services,Germany
+M0128,2.3,1.0,0,0,Small,Travel,Germany
+M0129,1.4,0.0,0,0,Small,Retail,United States
+M0130,5.4,0.0,0,0,Small,Retail,United States
+M0131,6.8,0.0,0,0,Small,Consumer Services,Brazil
+M0132,5.1,0.0,0,0,Small,Retail,United States
+M0133,3.3,0.0,0,0,Small,Retail,India
+M0134,3.8,0.0,0,0,Small,Events,India
+M0135,6.5,0.0,1,0,Small,SaaS/Subscriptions,United Kingdom
+M0136,3.7,0.0,0,0,Medium,Retail,Germany
+M0137,6.0,0.0,0,0,Small,Retail,Canada
+M0138,4.1,1.0,0,0,Small,Travel,Brazil
+M0139,3.6,0.0,0,0,Small,Healthcare,United Kingdom
+M0140,3.3,0.0,0,0,Medium,Healthcare,United Kingdom
+M0141,4.6,0.0,0,1,Small,Hospitality,United Kingdom
+M0142,4.6,0.0,0,0,Medium,Retail,India
+M0143,3.0,0.0,0,0,Large,Travel,Singapore
+M0144,2.6,0.0,0,0,Small,Education,United Kingdom
+M0145,2.3,0.0,0,0,Large,Events,United Kingdom
+M0146,5.1,1.0,0,0,Medium,Education,Nigeria
+M0147,4.5,0.0,1,0,Small,Digital Services,United States
+M0148,5.1,0.0,0,0,Small,Digital Services,India
+M0149,3.9,0.0,0,0,Medium,Travel,Australia
+M0150,6.3,0.0,0,0,Large,Consumer Services,United States
+M0151,4.5,0.0,0,0,Small,Events,United States
+M0152,5.9,0.0,0,0,Small,Travel,United States
+M0153,3.9,0.0,0,0,Medium,Retail,South Africa
+M0154,2.0,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0155,1.3,0.0,0,0,Medium,Healthcare,United States
+M0156,,0.0,0,0,Small,Digital Services,United States
+M0157,6.7,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0158,5.7,0.0,0,0,Medium,Consumer Services,United Arab Emirates
+M0159,6.4,0.0,0,0,Medium,SaaS/Subscriptions,United Kingdom
+M0160,2.6,0.0,0,0,Medium,Retail,United Arab Emirates
+M0161,1.3,,0,0,Medium,Events,United Arab Emirates
+M0162,3.8,0.0,0,0,Medium,Consumer Services,Brazil
+M0163,6.0,0.0,0,0,Medium,Hospitality,United States
+M0164,6.9,0.0,0,0,Small,Travel,Brazil
+M0165,1.3,0.0,0,0,Medium,Retail,United Arab Emirates
+M0166,5.2,1.0,0,0,Small,Consumer Services,United States
+M0167,6.3,0.0,0,0,Medium,Healthcare,Canada
+M0168,6.0,1.0,0,0,Medium,Digital Services,Brazil
+M0169,5.5,0.0,0,0,Small,Healthcare,United Kingdom
+M0170,3.2,0.0,0,0,Small,Healthcare,South Africa
+M0171,1.8,0.0,0,0,Small,Retail,India
+M0172,5.4,0.0,1,0,Medium,SaaS/Subscriptions,United Arab Emirates
+M0173,3.0,0.0,0,0,Small,Digital Services,France
+M0174,6.6,0.0,0,0,Small,Education,Germany
+M0175,6.9,0.0,0,0,Medium,SaaS/Subscriptions,Canada
+M0176,6.7,1.0,0,0,Medium,Travel,United Kingdom
+M0177,1.6,0.0,0,0,Small,Digital Services,Canada
+M0178,3.6,0.0,0,0,Small,Events,United Arab Emirates
+M0179,2.3,0.0,0,0,Large,Consumer Services,United States
+M0180,6.9,0.0,0,0,Medium,Events,Germany
+M0181,6.9,0.0,0,0,Medium,Hospitality,United Kingdom
+M0182,2.1,0.0,0,0,Small,Healthcare,United States
+M0183,6.4,0.0,0,1,Small,Hospitality,United States
+M0184,6.1,0.0,0,0,Small,Hospitality,United Kingdom
+M0185,4.0,0.0,0,0,Medium,Retail,United States
+M0186,3.5,1.0,0,0,Small,Healthcare,United States
+M0187,5.7,0.0,0,0,Small,Hospitality,Australia
+M0188,4.4,0.0,0,0,Medium,SaaS/Subscriptions,Australia
+M0189,3.1,0.0,0,0,Large,Digital Services,Australia
+M0190,4.4,0.0,0,0,Medium,Consumer Services,United Kingdom
+M0191,4.8,0.0,0,1,Small,Retail,South Africa
+M0192,6.6,0.0,0,0,Small,Hospitality,United Arab Emirates
+M0193,4.4,0.0,0,0,Small,Travel,United States
+M0194,2.3,0.0,0,0,Small,Events,United States
+M0195,3.3,0.0,0,0,Small,Hospitality,Singapore
+M0196,,1.0,0,0,Small,Education,United States
+M0197,6.3,1.0,0,0,Medium,Hospitality,India
+M0198,6.9,0.0,0,0,Medium,Retail,France
+M0199,3.8,1.0,0,0,Large,Digital Services,United States
+M0200,6.0,1.0,0,0,Small,Retail,United States
+M0201,3.5,0.0,0,0,Small,Hospitality,France
+M0202,1.7,0.0,0,1,Small,Digital Services,United Arab Emirates
+M0203,5.0,0.0,0,0,Small,Digital Services,United States
+M0204,3.8,0.0,0,0,Small,Digital Services,South Africa
+M0205,3.0,0.0,0,0,Small,Hospitality,Brazil
+M0206,6.1,0.0,0,0,Medium,Hospitality,India
+M0207,1.8,0.0,0,0,Small,Consumer Services,United Arab Emirates
+M0208,5.8,0.0,0,0,Large,SaaS/Subscriptions,United Kingdom
+M0209,2.3,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0210,3.2,0.0,0,0,Small,Retail,United Arab Emirates
+M0211,6.2,0.0,0,0,Small,Education,United Kingdom
+M0212,2.8,0.0,0,1,Small,Consumer Services,Singapore
+M0213,5.9,0.0,0,0,Small,Events,Brazil
+M0214,3.5,0.0,0,0,Large,Consumer Services,United States
+M0215,1.4,0.0,0,0,Small,Travel,United Arab Emirates
+M0216,1.4,0.0,0,0,Small,Retail,United Kingdom
+M0217,1.9,0.0,0,0,Medium,Education,Brazil
+M0218,4.1,0.0,0,0,Small,Travel,United Kingdom
+M0219,3.7,0.0,0,0,Medium,Hospitality,United Arab Emirates
+M0220,5.2,0.0,0,0,Small,SaaS/Subscriptions,United Arab Emirates
+M0221,1.6,0.0,0,0,Medium,Consumer Services,Germany
+M0222,4.2,0.0,0,0,Small,Retail,Singapore
+M0223,2.5,0.0,0,0,Small,Consumer Services,Australia
+M0224,4.9,0.0,0,0,Medium,Digital Services,United Arab Emirates
+M0225,2.7,0.0,0,0,Medium,Retail,Australia
+M0226,5.7,0.0,0,0,Small,Digital Services,France
+M0227,2.7,0.0,0,0,Medium,Travel,Germany
+M0228,6.7,0.0,0,0,Small,Travel,India
+M0229,6.4,0.0,0,0,Small,Healthcare,United States
+M0230,4.9,0.0,0,0,Small,Digital Services,Canada
+M0231,4.2,0.0,0,0,Medium,Events,India
+M0232,2.9,0.0,0,0,Small,Retail,Germany
+M0233,4.9,0.0,0,0,Medium,Retail,United States
+M0234,6.9,0.0,0,0,Small,Healthcare,Brazil
+M0235,5.1,0.0,0,0,Medium,Retail,Germany
+M0236,4.4,0.0,0,0,Medium,SaaS/Subscriptions,Singapore
+M0237,3.8,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0238,3.2,0.0,0,0,Small,SaaS/Subscriptions,Nigeria
+M0239,5.6,0.0,0,0,Small,Education,United States
+M0240,3.4,0.0,0,0,Medium,Healthcare,United States
+M0241,3.3,0.0,0,0,Small,Retail,Brazil
+M0242,2.5,0.0,0,0,Small,Events,South Africa
+M0243,4.0,0.0,0,0,Small,Events,United States
+M0244,2.3,0.0,0,0,Medium,Digital Services,India
+M0245,5.7,0.0,0,0,Small,Digital Services,Australia
+M0246,2.9,0.0,0,1,Small,Travel,Brazil
+M0247,6.7,0.0,0,0,Large,Travel,Germany
+M0248,6.4,0.0,0,0,Small,Retail,India
+M0249,2.0,0.0,0,0,Medium,Hospitality,Australia
+M0250,4.2,0.0,0,0,Small,Healthcare,Australia
+M0251,3.4,0.0,0,0,Small,SaaS/Subscriptions,Canada
+M0252,3.5,0.0,0,0,Medium,Hospitality,United Arab Emirates
+M0253,2.9,0.0,0,0,Medium,Consumer Services,United States
+M0254,5.6,0.0,0,0,Medium,Hospitality,South Africa
+M0255,6.0,1.0,0,0,Small,Events,Brazil
+M0256,6.8,0.0,0,0,Small,Hospitality,Canada
+M0257,2.0,0.0,0,0,Small,Travel,United States
+M0258,5.7,0.0,0,0,Small,Travel,United States
+M0259,3.6,0.0,0,0,Small,Travel,Australia
+M0260,4.3,0.0,0,0,Small,Hospitality,United States
+M0261,6.1,0.0,0,0,Small,Travel,France
+M0262,4.6,0.0,0,0,Small,Retail,Germany
+M0263,6.5,0.0,0,0,Small,Education,Australia
+M0264,6.0,0.0,0,0,Small,SaaS/Subscriptions,Brazil
+M0265,6.2,0.0,0,0,Medium,SaaS/Subscriptions,Germany
+M0266,2.2,0.0,0,0,Medium,Retail,United Kingdom
+M0267,3.7,0.0,0,0,Small,Healthcare,United Arab Emirates
+M0268,1.6,1.0,0,0,Medium,Healthcare,United Arab Emirates
+M0269,4.5,0.0,0,0,Medium,Travel,Germany
+M0270,5.8,0.0,0,1,Small,Hospitality,United Arab Emirates
+M0271,3.4,0.0,0,0,Small,Events,Nigeria
+M0272,1.6,0.0,0,0,Small,Events,India
+M0273,3.9,0.0,0,0,Small,Retail,United States
+M0274,6.9,0.0,0,0,Medium,SaaS/Subscriptions,Germany
+M0275,5.2,0.0,0,0,Large,Travel,Germany
+M0276,1.6,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0277,4.0,0.0,0,0,Medium,Retail,United States
+M0278,1.4,0.0,0,0,Small,Travel,Singapore
+M0279,4.0,0.0,0,0,Medium,Healthcare,United Kingdom
+M0280,6.9,0.0,0,0,Medium,Travel,Nigeria
+M0281,1.9,0.0,0,0,Small,Consumer Services,United Kingdom
+M0282,2.5,0.0,0,0,Small,Travel,United States
+M0283,2.8,0.0,0,0,Medium,Healthcare,Australia
+M0284,1.3,0.0,0,0,Large,Healthcare,Brazil
+M0285,5.9,0.0,0,0,Small,Consumer Services,United Kingdom
+M0286,1.7,0.0,0,0,Small,Digital Services,United States
+M0287,5.6,0.0,0,0,Small,Digital Services,United States
+M0288,1.3,0.0,0,0,Medium,Education,India
+M0289,5.9,0.0,0,0,Medium,Digital Services,India
+M0290,3.8,0.0,0,0,Medium,Hospitality,United Kingdom
+M0291,2.4,0.0,0,0,Medium,Retail,United States
+M0292,6.5,0.0,0,0,Medium,Retail,India
+M0293,6.6,0.0,0,0,Medium,Healthcare,Nigeria
+M0294,2.0,0.0,0,0,Small,Retail,Singapore
+M0295,6.6,0.0,0,0,Medium,SaaS/Subscriptions,India
+M0296,3.4,0.0,0,0,Small,Education,United States
+M0297,1.5,0.0,0,0,Small,Events,United Kingdom
+M0298,3.4,0.0,0,0,Large,Hospitality,United Kingdom
+M0299,4.2,0.0,0,0,Medium,Retail,Australia
+M0300,4.6,0.0,0,0,Large,SaaS/Subscriptions,Brazil
+M0301,3.3,0.0,0,1,Small,Events,South Africa
+M0302,3.7,0.0,0,0,Small,SaaS/Subscriptions,France
+M0303,4.1,0.0,0,0,Small,SaaS/Subscriptions,France
+M0304,6.1,0.0,0,0,Small,SaaS/Subscriptions,Nigeria
+M0305,3.1,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0306,2.7,0.0,0,0,Small,Education,United States
+M0307,2.9,1.0,0,0,Small,SaaS/Subscriptions,United Kingdom
+M0308,6.6,0.0,0,1,Large,Consumer Services,United Arab Emirates
+M0309,2.9,0.0,0,0,Small,Consumer Services,United States
+M0310,2.7,0.0,0,0,Small,Retail,Brazil
+M0311,5.9,0.0,0,0,Medium,SaaS/Subscriptions,United Arab Emirates
+M0312,2.0,0.0,0,0,Small,Retail,India
+M0313,3.9,0.0,0,0,Large,Healthcare,United States
+M0314,4.2,0.0,0,0,Medium,Education,United Kingdom
+M0315,2.8,0.0,0,0,Small,Digital Services,United States
+M0316,4.0,0.0,0,0,Medium,Retail,Brazil
+M0317,3.8,0.0,0,0,Medium,Education,United Arab Emirates
+M0318,5.2,0.0,0,0,Medium,Events,Australia
+M0319,1.6,0.0,0,0,Medium,Digital Services,United Kingdom
+M0320,1.3,0.0,0,0,Medium,Hospitality,Germany
+M0321,6.2,0.0,0,0,Medium,Digital Services,Germany
+M0322,2.7,0.0,0,0,Small,Healthcare,Australia
+M0323,6.9,0.0,0,0,Medium,Hospitality,Canada
+M0324,4.8,0.0,0,0,Large,Education,United States
+M0325,1.3,0.0,0,0,Medium,Travel,Nigeria
+M0326,6.0,0.0,0,0,Medium,Digital Services,United States
+M0327,4.8,0.0,0,0,Small,Travel,South Africa
+M0328,5.7,0.0,0,0,Medium,Consumer Services,United States
+M0329,2.8,0.0,0,0,Large,Hospitality,United Kingdom
+M0330,4.3,0.0,0,0,Small,Consumer Services,Brazil
+M0331,3.5,0.0,1,0,Small,Digital Services,United States
+M0332,1.5,0.0,0,0,Small,Retail,Germany
+M0333,4.0,0.0,0,0,Small,Digital Services,Germany
+M0334,2.7,0.0,0,0,Medium,Digital Services,United Kingdom
+M0335,6.4,0.0,0,0,Small,Consumer Services,Australia
+M0336,5.7,0.0,0,0,Small,Events,Brazil
+M0337,1.5,0.0,0,0,Medium,Retail,Brazil
+M0338,2.0,0.0,0,0,Medium,Travel,United Kingdom
+M0339,3.2,1.0,0,0,Medium,Education,India
+M0340,4.8,0.0,0,0,Medium,Hospitality,United Kingdom
+M0341,5.8,0.0,0,0,Medium,Retail,United Kingdom
+M0342,2.0,0.0,0,0,Medium,Retail,United States
+M0343,2.4,0.0,0,0,Medium,Retail,Nigeria
+M0344,5.6,1.0,0,0,Small,Retail,Brazil
+M0345,3.6,0.0,0,0,Medium,Digital Services,Canada
+M0346,3.4,0.0,0,0,Small,Digital Services,India
+M0347,4.2,0.0,0,0,Small,Retail,India
+M0348,1.6,0.0,0,0,Small,Retail,India
+M0349,6.3,0.0,0,0,Medium,Consumer Services,India
+M0350,5.5,0.0,0,0,Medium,Travel,Germany
+M0351,6.4,0.0,0,0,Small,Travel,United States
+M0352,3.0,0.0,0,0,Medium,Travel,United States
+M0353,3.2,0.0,0,0,Small,Education,Nigeria
+M0354,1.2,0.0,0,0,Medium,SaaS/Subscriptions,India
+M0355,3.8,0.0,0,0,Medium,Digital Services,Nigeria
+M0356,6.1,0.0,0,0,Medium,Education,United States
+M0357,4.4,0.0,0,0,Medium,SaaS/Subscriptions,United Arab Emirates
+M0358,6.5,0.0,0,0,Small,Healthcare,United States
+M0359,3.1,0.0,0,0,Small,Digital Services,United Kingdom
+M0360,3.1,0.0,0,0,Medium,Events,United States
+M0361,2.0,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0362,5.0,0.0,0,0,Small,SaaS/Subscriptions,South Africa
+M0363,5.2,0.0,0,0,Small,Hospitality,United Kingdom
+M0364,6.6,1.0,0,0,Small,Hospitality,United Arab Emirates
+M0365,4.6,0.0,0,0,Small,Consumer Services,India
+M0366,4.2,0.0,1,0,Small,Retail,Germany
+M0367,2.6,0.0,0,0,Small,SaaS/Subscriptions,India
+M0368,2.6,0.0,0,0,Large,Digital Services,United States
+M0369,6.2,0.0,0,0,Small,Retail,France
+M0370,5.3,0.0,0,0,Small,Consumer Services,Canada
+M0371,4.0,0.0,0,0,Small,Digital Services,Australia
+M0372,5.0,0.0,0,0,Small,Retail,India
+M0373,6.9,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0374,2.1,0.0,0,0,Small,Consumer Services,South Africa
+M0375,2.7,0.0,0,0,Medium,Digital Services,United Kingdom
+M0376,4.0,0.0,0,1,Medium,Consumer Services,United States
+M0377,5.1,0.0,0,0,Small,Travel,United Kingdom
+M0378,2.1,0.0,0,0,Medium,Healthcare,Canada
+M0379,6.8,0.0,0,0,Large,Education,United Arab Emirates
+M0380,4.4,0.0,0,0,Small,Hospitality,Australia
+M0381,2.3,1.0,0,0,Small,Retail,Canada
+M0382,1.4,0.0,0,0,Large,Education,United States
+M0383,5.5,0.0,0,0,Medium,Travel,South Africa
+M0384,3.2,1.0,0,0,Small,Retail,Germany
+M0385,5.9,0.0,0,0,Medium,Healthcare,Singapore
+M0386,6.3,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0387,4.9,0.0,0,0,Medium,Retail,France
+M0388,1.8,0.0,0,0,Small,Retail,United Kingdom
+M0389,3.0,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0390,4.1,0.0,0,0,Medium,Consumer Services,India
+M0391,5.3,0.0,0,0,Large,Digital Services,United States
+M0392,6.2,0.0,0,0,Medium,Travel,United States
+M0393,5.4,0.0,0,0,Small,Consumer Services,Singapore
+M0394,6.1,0.0,0,0,Small,Healthcare,Germany
+M0395,5.9,0.0,0,0,Large,Events,South Africa
+M0396,3.0,0.0,0,0,Large,Healthcare,United Kingdom
+M0397,6.2,0.0,0,0,Small,Travel,Australia
+M0398,6.7,0.0,0,0,Medium,Consumer Services,India
+M0399,3.8,1.0,0,1,Small,Education,Singapore
+M0400,5.3,0.0,0,0,Small,Education,United Arab Emirates
+M0401,4.3,0.0,0,0,Small,Travel,India
+M0402,6.2,0.0,0,0,Small,Healthcare,Nigeria
+M0403,5.8,0.0,0,0,Small,Travel,United Kingdom
+M0404,4.4,0.0,0,0,Medium,Events,United States
+M0405,3.0,0.0,0,0,Small,Hospitality,Singapore
+M0406,4.6,1.0,0,0,Small,Digital Services,Brazil
+M0407,3.8,0.0,0,0,Small,Hospitality,United States
+M0408,4.0,0.0,0,0,Small,Consumer Services,Germany
+M0409,5.4,0.0,0,0,Small,Education,South Africa
+M0410,5.4,0.0,0,0,Medium,Travel,Australia
+M0411,4.5,0.0,0,0,Small,Travel,France
+M0412,6.8,0.0,0,0,Medium,Travel,India
+M0413,3.0,0.0,0,0,Large,Retail,Singapore
+M0414,3.4,0.0,0,0,Small,Digital Services,United Kingdom
+M0415,5.2,0.0,0,0,Large,Events,Nigeria
+M0416,4.8,0.0,0,0,Large,Healthcare,Germany
+M0417,5.1,0.0,0,0,Medium,Travel,Australia
+M0418,3.2,0.0,0,0,Medium,Digital Services,Germany
+M0419,2.6,0.0,0,0,Medium,Consumer Services,United Arab Emirates
+M0420,6.4,1.0,0,0,Medium,Digital Services,Australia
+M0421,4.6,0.0,0,0,Medium,Digital Services,India
+M0422,6.9,0.0,0,0,Small,Healthcare,South Africa
+M0423,4.4,0.0,0,0,Large,Travel,Germany
+M0424,5.6,0.0,0,0,Medium,Hospitality,Singapore
+M0425,5.0,0.0,0,0,Medium,Hospitality,United Kingdom
+M0426,4.3,0.0,0,0,Small,Retail,Germany
+M0427,5.1,0.0,0,0,Small,Digital Services,Germany
+M0428,4.7,0.0,0,0,Small,Education,United States
+M0429,2.5,0.0,0,0,Small,Healthcare,United States
+M0430,2.3,0.0,0,0,Small,Hospitality,Singapore
+M0431,7.0,0.0,0,0,Small,Digital Services,Singapore
+M0432,4.8,0.0,0,0,Small,Hospitality,Singapore
+M0433,2.1,0.0,0,0,Small,Events,United States
+M0434,3.9,0.0,0,0,Small,Digital Services,United Kingdom
+M0435,5.8,0.0,0,0,Large,Consumer Services,United States
+M0436,3.5,0.0,0,0,Small,Education,Canada
+M0437,6.2,0.0,0,0,Small,Travel,Brazil
+M0438,6.9,0.0,0,0,Small,Education,United Kingdom
+M0439,3.3,0.0,0,0,Small,Travel,Singapore
+M0440,4.0,0.0,0,0,Small,Healthcare,United States
+M0441,2.6,0.0,0,0,Medium,Digital Services,United Kingdom
+M0442,5.0,0.0,0,0,Large,Hospitality,United States
+M0443,2.0,0.0,0,0,Small,Travel,United Kingdom
+M0444,4.5,0.0,0,0,Medium,Hospitality,Singapore
+M0445,2.7,1.0,0,0,Small,Consumer Services,South Africa
+M0446,6.4,0.0,0,0,Small,Retail,United States
+M0447,6.4,1.0,0,0,Small,Digital Services,India
+M0448,2.4,0.0,0,0,Small,Education,Australia
+M0449,2.1,0.0,0,0,Medium,Retail,Nigeria
+M0450,1.5,0.0,0,0,Medium,Hospitality,United Arab Emirates
+M0451,5.1,0.0,0,0,Medium,Consumer Services,United Kingdom
+M0452,6.9,0.0,0,0,Small,SaaS/Subscriptions,United Arab Emirates
+M0453,1.3,0.0,0,0,Medium,Retail,United Kingdom
+M0454,3.5,0.0,0,0,Small,Digital Services,France
+M0455,5.6,0.0,0,0,Small,Education,Germany
+M0456,2.5,0.0,0,0,Small,Consumer Services,Singapore
+M0457,1.7,0.0,0,0,Medium,Hospitality,United States
+M0458,5.3,0.0,0,0,Large,Retail,Germany
+M0459,2.5,0.0,0,0,Small,SaaS/Subscriptions,Brazil
+M0460,2.4,0.0,0,0,Medium,Retail,United Arab Emirates
+M0461,4.1,0.0,0,0,Medium,Travel,Germany
+M0462,3.3,0.0,0,0,Medium,Hospitality,Nigeria
+M0463,5.4,0.0,0,0,Small,Events,Brazil
+M0464,1.6,0.0,0,0,Medium,SaaS/Subscriptions,United Kingdom
+M0465,1.3,0.0,0,0,Medium,SaaS/Subscriptions,India
+M0466,1.3,0.0,0,0,Medium,Education,India
+M0467,2.7,0.0,0,0,Small,Education,Singapore
+M0468,6.8,0.0,0,0,Large,SaaS/Subscriptions,United Kingdom
+M0469,4.9,0.0,0,0,Small,SaaS/Subscriptions,United Kingdom
+M0470,4.4,0.0,0,0,Medium,Hospitality,South Africa
+M0471,1.4,0.0,0,0,Small,Retail,South Africa
+M0472,3.8,0.0,0,1,Small,SaaS/Subscriptions,Brazil
+M0473,3.9,0.0,0,0,Small,Travel,France
+M0474,6.1,0.0,1,0,Small,SaaS/Subscriptions,Australia
+M0475,2.4,0.0,0,0,Small,Retail,Australia
+M0476,5.0,0.0,0,0,Small,Events,Australia
+M0477,6.5,1.0,0,0,Small,Retail,India
+M0478,1.2,0.0,0,0,Small,Retail,India
+M0479,5.9,0.0,0,0,Medium,Digital Services,United Kingdom
+M0480,6.9,0.0,0,0,Medium,Education,Singapore
+M0481,6.5,0.0,0,0,Medium,Education,United Kingdom
+M0482,4.4,0.0,0,0,Small,SaaS/Subscriptions,United Kingdom
+M0483,6.4,1.0,0,0,Small,Digital Services,United Arab Emirates
+M0484,2.1,0.0,0,0,Large,Retail,Germany
+M0485,4.0,0.0,0,0,Small,Retail,United States
+M0486,5.1,0.0,0,0,Small,Education,Canada
+M0487,7.0,0.0,0,0,Large,SaaS/Subscriptions,Brazil
+M0488,4.2,0.0,0,1,Large,Retail,United States
+M0489,6.1,0.0,0,0,Small,Digital Services,United States
+M0490,1.3,0.0,0,0,Medium,Healthcare,United Kingdom
+M0491,5.3,0.0,0,1,Small,Consumer Services,Canada
+M0492,4.2,0.0,0,1,Medium,Retail,Brazil
+M0493,6.9,0.0,0,0,Small,Retail,United States
+M0494,6.2,0.0,0,0,Small,Digital Services,Canada
+M0495,5.8,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0496,6.7,0.0,0,0,Small,Healthcare,Germany
+M0497,2.8,0.0,0,0,Medium,Retail,France
+M0498,1.5,0.0,0,0,Small,Travel,United States
+M0499,1.3,0.0,0,0,Medium,Travel,United States
+M0500,5.4,1.0,0,0,Medium,Healthcare,Germany
+M0501,2.4,0.0,0,0,Small,Travel,United Arab Emirates
+M0502,4.1,0.0,0,0,Medium,Events,Nigeria
+M0503,6.7,0.0,0,0,Small,SaaS/Subscriptions,France
+M0504,6.5,0.0,0,0,Small,Hospitality,United States
+M0505,3.8,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0506,4.5,0.0,0,0,Medium,Digital Services,Canada
+M0507,7.0,0.0,0,0,Medium,Travel,United Kingdom
+M0508,1.6,0.0,0,0,Large,Healthcare,Brazil
+M0509,2.7,0.0,0,0,Medium,Healthcare,Singapore
+M0510,4.1,0.0,0,0,Large,SaaS/Subscriptions,United States
+M0511,1.2,0.0,0,1,Small,Hospitality,Brazil
+M0512,1.3,0.0,0,0,Large,Retail,United States
+M0513,1.3,0.0,0,0,Medium,Travel,Germany
+M0514,5.5,0.0,0,0,Small,SaaS/Subscriptions,United Arab Emirates
+M0515,1.9,0.0,0,0,Medium,Consumer Services,India
+M0516,4.1,0.0,0,0,Small,Consumer Services,Singapore
+M0517,2.8,0.0,0,0,Small,Digital Services,Singapore
+M0518,2.0,0.0,0,0,Small,SaaS/Subscriptions,France
+M0519,6.0,0.0,0,0,Small,Education,France
+M0520,4.4,0.0,0,0,Small,Digital Services,India
+M0521,6.2,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0522,5.4,0.0,0,0,Medium,Education,Australia
+M0523,4.6,0.0,0,0,Small,Travel,France
+M0524,2.0,0.0,0,1,Small,Hospitality,United Kingdom
+M0525,2.0,0.0,0,0,Small,Retail,India
+M0526,4.7,0.0,0,1,Small,Hospitality,Germany
+M0527,5.1,0.0,0,0,Medium,Hospitality,United States
+M0528,3.9,0.0,0,0,Small,Healthcare,Singapore
+M0529,1.7,0.0,0,0,Medium,Consumer Services,United Kingdom
+M0530,1.3,0.0,0,0,Medium,Retail,Canada
+M0531,5.7,0.0,0,0,Medium,Healthcare,Brazil
+M0532,5.9,0.0,0,0,Medium,Consumer Services,Canada
+M0533,2.9,0.0,0,1,Small,Hospitality,Germany
+M0534,5.2,0.0,0,0,Medium,Retail,United Kingdom
+M0535,5.8,0.0,0,1,Medium,SaaS/Subscriptions,Australia
+M0536,6.8,0.0,0,0,Medium,Travel,Canada
+M0537,4.6,0.0,0,1,Medium,Digital Services,India
+M0538,4.7,0.0,0,0,Medium,Retail,South Africa
+M0539,3.7,0.0,0,0,Large,Retail,United States
+M0540,5.8,0.0,1,0,Small,Hospitality,Brazil
+M0541,2.8,1.0,0,0,Medium,Hospitality,United States
+M0542,3.0,0.0,0,0,Medium,Healthcare,United States
+M0543,4.3,0.0,0,0,Small,Travel,India
+M0544,5.9,0.0,0,0,Large,Events,United States
+M0545,4.0,0.0,0,0,Small,SaaS/Subscriptions,United States
+M0546,3.1,0.0,0,0,Medium,Retail,United States
+M0547,4.8,0.0,0,0,Small,Retail,Germany
+M0548,5.5,0.0,0,0,Small,Retail,Canada
+M0549,4.0,0.0,0,0,Medium,Travel,United States
+M0550,4.9,0.0,0,0,Small,Events,Singapore
+M0551,4.7,0.0,0,0,Small,Healthcare,Canada
+M0552,5.0,0.0,0,0,Small,Education,United States
+M0553,5.2,0.0,0,0,Small,Education,United States
+M0554,2.8,0.0,0,0,Medium,Education,Brazil
+M0555,4.3,1.0,0,0,Medium,Digital Services,Canada
+M0556,4.3,0.0,0,0,Small,Travel,India
+M0557,3.2,0.0,0,1,Medium,SaaS/Subscriptions,Canada
+M0558,4.9,0.0,0,0,Small,Retail,United States
+M0559,6.4,0.0,1,0,Medium,SaaS/Subscriptions,Germany
+M0560,2.0,0.0,0,0,Small,Healthcare,Australia
+M0561,6.7,0.0,0,0,Small,Retail,United Kingdom
+M0562,3.7,0.0,0,0,Small,Digital Services,Australia
+M0563,5.4,1.0,0,0,Medium,Healthcare,India
+M0564,5.8,0.0,0,0,Small,Retail,Australia
+M0565,6.8,1.0,0,0,Small,Healthcare,India
+M0566,1.7,1.0,0,0,Medium,Retail,Germany
+M0567,4.5,1.0,0,1,Medium,Healthcare,United States
+M0568,5.0,0.0,0,1,Small,SaaS/Subscriptions,United States
+M0569,2.7,0.0,0,0,Medium,Retail,Australia
+M0570,6.8,0.0,0,0,Medium,Retail,United States
+M0571,3.7,0.0,0,0,Small,Travel,United States
+M0572,4.1,0.0,0,0,Medium,SaaS/Subscriptions,United States
+M0573,3.8,0.0,0,0,Small,Consumer Services,United States
+M0574,6.3,0.0,0,0,Medium,Education,Canada
+M0575,1.4,0.0,0,0,Small,Hospitality,Germany
+M0576,5.6,1.0,0,0,Medium,SaaS/Subscriptions,France
+M0577,3.0,0.0,0,0,Small,Hospitality,United States
+M0578,2.6,0.0,0,0,Small,Travel,Singapore
+M0579,5.0,0.0,0,0,Large,Consumer Services,Germany
+M0580,6.2,0.0,0,0,Small,Retail,Germany
+M0581,5.3,0.0,0,0,Medium,SaaS/Subscriptions,Brazil
+M0582,2.3,0.0,0,0,Large,Retail,France
+M0583,1.7,0.0,0,0,Medium,Travel,Brazil
+M0584,1.5,0.0,0,0,Small,Events,United States
+M0585,5.7,1.0,0,0,Medium,Digital Services,United Kingdom
+M0586,3.5,0.0,0,0,Small,Education,Singapore
+M0587,6.1,0.0,0,0,Small,Consumer Services,United Kingdom
+M0588,2.9,0.0,0,0,Medium,Education,Australia
+M0589,4.6,0.0,0,0,Medium,Retail,United Arab Emirates
+M0590,2.8,1.0,0,0,Small,Digital Services,United Arab Emirates
+M0591,3.0,0.0,0,0,Small,Healthcare,Canada
+M0592,1.2,1.0,0,0,Medium,Digital Services,Australia
+M0593,4.2,0.0,0,1,Medium,Consumer Services,United States
+M0594,5.0,0.0,0,0,Small,Digital Services,United States
+M0595,3.9,0.0,0,0,Medium,Healthcare,United Arab Emirates
+M0596,6.1,0.0,0,0,Small,Travel,India
+M0597,6.3,0.0,0,0,Small,Digital Services,United Kingdom
+M0598,4.0,0.0,0,0,Medium,Retail,Germany
+M0599,2.2,0.0,0,0,Large,Retail,Australia
+M0600,3.9,0.0,0,0,Small,Education,Canada
