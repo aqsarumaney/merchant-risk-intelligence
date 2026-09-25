@@ -4,9 +4,9 @@
 
 A portfolio analytics case study built around a fictional payments company and synthetic merchant data.
 
-The project demonstrates an end-to-end analytics workflow — from data-quality checks and SQL analysis through Power BI reporting and a quarterly management review.
+The project demonstrates an end-to-end analytics workflow, from data-quality checks and SQL analysis through Power BI reporting and a quarterly management review.
 
-> **Note:** Nova Payments, the merchants, and all underlying data in this project are fictional and synthetic. This project does not represent Envisso's actual clients, data, risk methodology, or internal processes.
+> **Note:** Nova Payments, the merchants, and all underlying data in this project are fictional and synthetic. This project does not represent Any actual clients, data, risk methodology, or internal processes.
 
 ---
 
@@ -25,7 +25,7 @@ The objective of the analysis was to understand:
 - Early signs of risk deterioration
 - Data-quality issues that could affect reporting
 
-The project was inspired by the type of portfolio and risk-analysis work described in a Data Analyst opportunity I was researching. The company, data and methodology used here are entirely fictional.
+The project is a portfolio case study designed to demonstrate practical SQL, Power BI, data-quality, business-analysis and risk-monitoring skills. The company, data and methodology used here are entirely fictional.
 
 ---
 
