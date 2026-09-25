@@ -150,7 +150,7 @@ The review brings together:
 
 The purpose was to demonstrate how analytical findings can be communicated in a format suitable for a management or risk-review discussion.
 
-xx
+[View Quarterly Risk Review](./reports/Quarterly%20Risk%20Review%20Report%20-%20Q4%202024.pdf)
 
 ---
 
