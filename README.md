@@ -107,7 +107,7 @@ Analysis of recent sudden and repeated risk deterioration to identify merchants 
 
 A drill-through page for investigating an individual merchant, combining merchant profile, transaction exposure, risk trends, operational risk indicators and risk signals.
 
-**Power BI Files:** [Open PBIX](./powerbi/MERCHANT%20RISK%20INTELLIGENCE.pbix) · nn
+**Power BI Files:** [Open PBIX](./powerbi/MERCHANT%20RISK%20INTELLIGENCE.pbix) · [Open PDF](./powerbi/MERCHANT%20RISK%20INTELLIGENCE.pdf)
 
 ## Dashboard Preview
 
